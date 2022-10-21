@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csh_code", "CSH_Proj\csh_code.csproj", "{1C5F14E6-1A01-42B0-A93B-67A9E3583143}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py_code", "py\py_code.pyproj", "{D197FCDC-75FC-49C0-BAE7-A313D49CCEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5F14E6-1A01-42B0-A93B-67A9E3583143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5F14E6-1A01-42B0-A93B-67A9E3583143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5F14E6-1A01-42B0-A93B-67A9E3583143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5F14E6-1A01-42B0-A93B-67A9E3583143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D197FCDC-75FC-49C0-BAE7-A313D49CCEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D197FCDC-75FC-49C0-BAE7-A313D49CCEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D51EFA6-F7E7-4295-89F3-CB4836BC14F9}
+	EndGlobalSection
+EndGlobal
